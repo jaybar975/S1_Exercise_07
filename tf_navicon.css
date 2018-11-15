@@ -5,8 +5,8 @@
    Tutorial 5
    Tutorial Case
    
-   Author:   
-   Date:     
+   Author: Justin Aybar   
+   Date: 11.15.18    
    
    Filename: tf_navicon.css
    
@@ -29,7 +29,4 @@
    ===============================
 */
 
-@media only screen and (max-width: 480px) {
-
-   
-}
+@media only screen and (max-width: 480px) {}

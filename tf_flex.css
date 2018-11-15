@@ -5,8 +5,8 @@
    Tutorial 5
    Tutorial Case
    
-   Author:   
-   Date:     
+   Author: Justin Aybar  
+   Date: 11.15.18    
    
    Filename: tf_flex.css
    
@@ -29,21 +29,11 @@
    =========================
 */
 
-@media only screen and (max-width: 480px) {
-  
-
- 
-}
+@media only screen and (max-width: 480px) {}
 
 /* ============================================
    Tablet and Desktop Styles: 481px and greater 
    ============================================
 */
 
-@media only screen and (min-width: 481px) {
-
-
-
-}
-
-
+@media only screen and (min-width: 481px) {}
